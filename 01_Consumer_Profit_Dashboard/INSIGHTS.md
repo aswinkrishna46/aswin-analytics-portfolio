@@ -52,6 +52,19 @@ This points to a change in product mix, discounting, or cost structure rather th
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Summary — Consumer Profit Dashboard
+![Executive Overview Dashboard](./images/Segment%20Level%20Profit%20Dashboard.png)
+
+### Segment × Category Performance
+![Segment Category Dashboard](./images/Segment%20×%20Category%20Profit%20Analysis.png)
+
+### Monthly Performance Analysis
+![Monthly Analysis Dashboard](./images/Monthly%20Performance%20Analysis.png)
+
+---
+
 ## Files in this Project  
 
 - Consumer_Profit_Dashboard_v3_Aswin.pdf – full multi-page report  
