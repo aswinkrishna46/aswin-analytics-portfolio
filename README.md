@@ -66,6 +66,5 @@ This dashboard enables leadership to:
 
 📬 Contact
 Email: aswinkrishna46@gmail.com
-
 Location: India - Open to opportunities in Netherlands & EU  
 
