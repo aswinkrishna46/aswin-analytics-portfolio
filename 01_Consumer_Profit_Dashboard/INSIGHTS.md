@@ -12,7 +12,7 @@ Analyze profitability trends to identify where the business is winning, where it
 - February profit dropped sharply compared to January, even though order volume stayed similar.  
 - The main driver of this drop is a collapse in Technology profit, especially for Consumer and Home Office segments.  
 - Corporate segment remains small but relatively stable – low risk, but limited upside.
-- 
+  
 ---
 
 ## Root Cause  
