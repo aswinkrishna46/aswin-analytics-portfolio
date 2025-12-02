@@ -63,6 +63,11 @@ This points to a change in product mix, discounting, or cost structure rather th
 ### Monthly Performance Analysis
 ![Monthly Analysis Dashboard](./images/Monthly%20Performance%20Analysis.png)
 
+### Regional Performance Analysis
+![Regional Analysis Dashboard](./images/Regional%20Performance%20Strategy.png)
+
+### Profit Drivers — Top Region & Category Analysis
+![Top Drivers Dashboard](./images/Top%20Region%20Top%20Category%20Analysis.png)
 ---
 
 ## Files in this Project  
