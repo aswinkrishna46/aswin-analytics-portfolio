@@ -1,4 +1,6 @@
 # Consumer Profit Dashboard — Insights
+> Project 01 — Retail Profitability Optimization  
+> Data-driven insights using SQL + Power BI
 
 ## Business Objective  
 Analyze profitability trends to identify where the business is winning, where it is losing margin, and what actions can improve future performance.
