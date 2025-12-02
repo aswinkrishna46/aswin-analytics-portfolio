@@ -11,7 +11,7 @@ Currently upskilling in:
 • SAP Analytics Cloud for enterprise BI solutions  
 
 My focus:  
-Deliver dashboards that reveal where profit comes from and how to grow it — with clear, actionable recommendations for decision makers.
+Deliver dashboards that reveal where profit comes from and how to grow it, with clear and actionable recommendations for decision makers.
 
 ---
 
