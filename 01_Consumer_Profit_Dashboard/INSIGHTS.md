@@ -64,15 +64,16 @@ This points to a change in product mix, discounting, or cost structure rather th
 ![Monthly Analysis Dashboard](./images/Monthly%20Performance%20Analysis.png)
 
 ### Regional Performance Analysis
-![Regional Analysis Dashboard](./images/Regional%20Performance%20Strategy.png)
+![Regional Analysis Dashboard](./images/Regional%20Profit%20Strategy.png)
 
 ### Profit Drivers — Top Region & Category Analysis
-![Top Drivers Dashboard](./images/Top%20Region%20Top%20Category%20Analysis.png)
+![Top Drivers Dashboard](./images/EU%20West%20Deep%20Dive.png)
+
 ---
 
 ## Files in this Project  
 
-- Consumer_Profit_Dashboard_v3_Aswin.pdf – full multi-page report  
+- Consumer_Profit_Dashboard_v5_EUDeepDive_Aswin.pdf – full multi-page report  
 - Power BI .pbix source file – available on request  
 
 ---
