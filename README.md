@@ -1,39 +1,70 @@
 # Aswin Krishna — Analytics Portfolio
 
-Focused on delivering business insights through SQL, Power BI, and SAP Analytics Cloud.
+Data Analyst turning raw data into strategic business decisions.
+
+I specialize in:
+• Power BI dashboards for business performance visibility  
+• SQL-driven data modeling and advanced analysis  
+• Profitability insights across customers, products, and regions  
+
+Currently upskilling in:
+• SAP Analytics Cloud for enterprise BI solutions  
+
+My focus:  
+Deliver dashboards that reveal where profit comes from and how to grow it, with clear, actionable recommendations for decision makers.
 
 ---
 
-## 📊 Project 01 — Consumer Profit Dashboard
+## Skills
 
-Goal: Identify the most profitable customers, products, and markets to guide business strategy.
+- Power BI — Data modeling, DAX, interactive dashboard design  
+- SQL — Joins, aggregations, window functions, time-series analysis  
+- Python (beginner) — Pandas for data manipulation  
+- SAP Analytics Cloud (in progress) — Story design + BI workflows  
+- Data Storytelling — Executive summaries & business recommendations  
+- Communication — Clear explanation of insights for stakeholders  
 
-Skills Used
-- SQL — joins, aggregations, time-series logic
-- Power BI — story design, KPI tiles, conditional formatting
-- Business Insight — segmentation, product mix, regional focus
+---
+
+## 📊 Project 01 — Retail Profitability Optimization  
+Analysis using SQL + Power BI
+
+Goal: Identify where the business is winning, where margins drop, and what actions will improve profitability.
 
 Key Findings
-- Consumer Technology drives the strongest profitability.
-- Corporate segment shows good margins but low volume → growth potential.
-- Home Office segment is underperforming → needs pricing/product improvements.
-- February shows a sharp margin drop → promo opportunity.
+- Consumer segment drives the majority of profit  
+- Technology & Furniture deliver strong margins; Office Supplies underperforms  
+- February profit dropped sharply despite similar order volume  
+- Decline driven by margin erosion in Technology category  
+- Corporate segment remains stable but low-growth  
 
 📄 Full report:  
-01_Consumer_Profit_Dashboard/Consumer_Profit_Dashboard_v3_Aswin.pdf
+01_Consumer_Profit_Dashboard/Consumer_Profit_Dashboard_v5_EUDeepDive_Aswin.pdf
 
 📸 Dashboard previews:  
 See images inside project folder → 01_Consumer_Profit_Dashboard/images/
 
 ---
 
+## Key Business Value
+
+This dashboard enables leadership to:
+
+✔️ Understand where profit originates  
+✔️ Detect and explain margin drops early  
+✔️ Prioritize high-ROI product-segment combinations  
+✔️ Focus improvement efforts where value is lost  
+
+---
+
 🛠️ In Progress (Next)
-- Week-02: Joins + Regional Strategy enhancements
-- Week-03: Forecasting and Python analytics
-- Week-04: Portfolio Website (Live Publishing)
+- Sales Forecasting (SQL + Python + SAC Predictive)
+- Returns & Delivery Efficiency Dashboard (Power BI)
+- Customer Segmentation Insights
 
 ---
 
 📬 Contact
-Email: [YOUR EMAIL]  
-Location: India → Netherlands (target relocation)
+Email: aswinkrishna46@gmail.com 
+Location: India - Open to opportunities in Netherlands & EU  
+
