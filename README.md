@@ -3,6 +3,7 @@
 Data Analyst turning raw data into strategic business decisions.
 
 I specialize in:
+
 • Power BI dashboards for business performance visibility  
 • SQL-driven data modeling and advanced analysis  
 • Profitability insights across customers, products, and regions  
