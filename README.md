@@ -1,17 +1,17 @@
 # Aswin Krishna — Analytics Portfolio
 
-Data Analyst turning raw data into strategic business decisions.
+Aspiring Analytics Consultant delivering insights for business growth.
 
-I specialize in:
+I specialize in:  
 • Power BI dashboards for business performance visibility  
 • SQL-driven data modeling and advanced analysis  
 • Profitability insights across customers, products, and regions  
 
-Currently upskilling in:
+Currently upskilling in:  
 • SAP Analytics Cloud for enterprise BI solutions  
 
 My focus:  
-Deliver dashboards that reveal where profit comes from and how to grow it, with clear, actionable recommendations for decision makers.
+Deliver dashboards that reveal where profit comes from and how to grow it — with clear, actionable recommendations for decision makers.
 
 ---
 
@@ -19,19 +19,20 @@ Deliver dashboards that reveal where profit comes from and how to grow it, with 
 
 - Power BI — Data modeling, DAX, interactive dashboard design  
 - SQL — Joins, aggregations, window functions, time-series analysis  
-- Python (beginner) — Pandas for data manipulation  
-- SAP Analytics Cloud (in progress) — Story design + BI workflows  
+- Python — Pandas for data manipulation (in progress)  
+- SAP Analytics Cloud — Story design + BI workflows (in progress)  
 - Data Storytelling — Executive summaries & business recommendations  
 - Communication — Clear explanation of insights for stakeholders  
 
 ---
 
-## 📊 Project 01 — Retail Profitability Optimization  
+## Project 01 — Retail Profitability Optimization  
 Analysis using SQL + Power BI
 
-Goal: Identify where the business is winning, where margins drop, and what actions will improve profitability.
+Goal  
+Identify where the business is winning, where margins drop, and what actions will improve profitability.
 
-Key Findings
+Key Findings  
 - Consumer segment drives the majority of profit  
 - Technology & Furniture deliver strong margins; Office Supplies underperforms  
 - February profit dropped sharply despite similar order volume  
@@ -50,21 +51,24 @@ See images inside project folder → 01_Consumer_Profit_Dashboard/images/
 
 This dashboard enables leadership to:
 
-✔️ Understand where profit originates  
-✔️ Detect and explain margin drops early  
-✔️ Prioritize high-ROI product-segment combinations  
-✔️ Focus improvement efforts where value is lost  
+- Understand where profit originates  
+- Detect and explain margin drops early  
+- Prioritize high-ROI product-segment combinations  
+- Focus improvement efforts where value is lost  
+
+Delivered visibility into a 37% regional performance gap across EU markets.
 
 ---
 
-🛠️ In Progress (Next)
-- Sales Forecasting (SQL + Python + SAC Predictive)
-- Returns & Delivery Efficiency Dashboard (Power BI)
-- Customer Segmentation Insights
+## In Progress (Next)
+
+- Sales Forecasting (SQL + Python + SAC Predictive)  
+- Returns & Delivery Efficiency Dashboard (Power BI)  
+- Customer Segmentation Insights  
 
 ---
 
-📬 Contact
-Email: aswinkrishna46@gmail.com
-Location: India - Open to opportunities in Netherlands & EU  
+## Contact
 
+Email: aswinkrishna46@gmail.com  
+Location: India — Open to opportunities in Netherlands & EU
