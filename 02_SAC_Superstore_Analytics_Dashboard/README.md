@@ -51,16 +51,16 @@ Pages included in this SAC Story:
 ## Dashboard Previews
 
 ### Page 1 — Executive Overview  
-![Executive Overview](01_Executive_Overview_SAC_Dashboard.png)
+![Executive Overview](./images/01_Executive_Overview_SAC_Dashboard.png)
 
 ### Page 2 — Category Performance  
-![Category Performance](02_Category_Performance_SAC_Dashboard.png)
+![Category Performance](./images/02_Category_Performance_SAC_Dashboard.png)
 
 ### Page 3 — Regional Performance  
-![Regional Performance](03_Regional_Performance_SAC_Dashboard.png)
+![Regional Performance](./images/03_Regional_Performance_SAC_Dashboard.png)
 
 ### Page 4 — Customer Performance  
-![Customer Performance](04_Customer_Performance_SAC_Dashboard.png)
+![Customer Performance](./images/04_Customer_Performance_SAC_Dashboard.png)
 
 ---
 
