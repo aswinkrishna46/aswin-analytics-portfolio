@@ -3,54 +3,61 @@
 > Data-driven insights using SQL + Power BI
 
 ## Business Objective  
-Analyze profitability trends to identify where the business is winning, where it is losing margin, and what actions can improve future performance.
+Identify where the business is winning, where margin erosion occurs, and what strategic actions can improve profitability across segments, categories, and regions.
 
 ---
 
-## Key Findings  
+## Key Findings
 
-- Consumer segment is the profit engine of the business, contributing the highest share of total profit.  
-- Within Consumer, Technology and Furniture deliver strong profitability, while Office Supplies underperforms.  
-- February profit dropped sharply compared to January, even though order volume stayed similar.  
-- The main driver of this drop is a collapse in Technology profit, especially for Consumer and Home Office segments.  
-- Corporate segment remains small but relatively stable – low risk, but limited upside.
-  
----
-
-## Root Cause  
-
-The February decline is margin-driven, not volume-driven:  
-- Orders did not fall dramatically, but  
-- Average profit per order fell, especially in Technology.  
-
-This points to a change in product mix, discounting, or cost structure rather than demand.
+- Consumer segment is the primary profit driver, contributing the highest total profit across all segments.  
+- Technology is the leading profit category ($531), followed by Furniture — both deliver strong margins.  
+- EU West is the strongest region ($616 profit), driven by Technology + Consumer sales; this region is a high-ROI focus area.  
+- Office Supplies underperforms across multiple regions and segments, both in volume contribution and profitability.  
+- February profit dropped sharply vs January, despite similar order volume — a clear margin erosion issue rather than demand decline.  
+- The decline originates from Technology, especially within Consumer and Home Office segments.
 
 ---
 
-## Recommendations  
+## Root Cause Analysis
 
-1. Double down on Consumer + Technology  
-   - Protect and grow the highest-margin product/segment combination.  
+The February drop is margin-driven, not volume-driven:
 
-2. Boost Furniture order volume  
-   - Furniture margins are strong; increasing order count will raise total profit.  
+- Total orders remained stable.  
+- Average Profit Per Order fell significantly, largely within Technology.  
+- Discount patterns indicate that higher-discount orders in February contributed to profit decline.  
+- Product mix shifted toward lower-margin combinations.
 
-3. Fix Office Supplies performance  
-   - Review pricing, discounts, and product portfolio to bring margins up to target.  
-
-4. Investigate February margin erosion  
-   - Analyze discounts, campaigns, and operational costs specific to February.  
-
-5. Maintain Corporate segment efficiently  
-   - Keep engagement, but avoid overspending on a low-volume segment.
+This suggests issues with pricing, discounting, or product mix rather than customer demand.
 
 ---
 
-## Skills Demonstrated  
+## Recommendations
 
-- SQL: joins, aggregations, time-series analysis  
-- Power BI: multi-page dashboard design, KPIs, combo charts, conditional formatting  
-- Data storytelling: translating numbers into clear business recommendations  
+### 1. Scale Consumer + Technology (highest profit engine)
+- Prioritize inventory readiness, targeted marketing, and premium pricing strategies.  
+- Protect Technology margins by tightening discount policies in key regions.
+
+### 2. Increase Furniture order volume
+- Strong margins but low volume; promotions or bundling can unlock profit growth.
+
+### 3. Repair Office Supplies performance
+- Review SKU-level profitability, negotiate cost improvements, or refresh product assortment.
+
+### 4. Investigate February discounting & margin leakage
+- Analyze discount band changes and promotional campaigns that led to lower margins.  
+- Align discount rules with profitability targets.
+
+### 5. Maintain Corporate segment efficiently
+- Stable but low-volume; nurture existing relationships without heavy investment.
+
+---
+
+## Skills Demonstrated
+
+- SQL: joins, aggregations, time-series trend analysis  
+- Power BI: multi-page dashboard design, DAX measures (Avg Profit Per Order, discount segmentation), conditional formatting  
+- Storytelling: insights → root causes → business actions  
+- Business analysis: understanding profit drivers across segments, categories, and regions
 
 ---
 
@@ -73,13 +80,13 @@ This points to a change in product mix, discounting, or cost structure rather th
 
 ---
 
-## Files in this Project  
+## Files in this Project
 
-- Consumer_Profit_Dashboard_v5_EUDeepDive_Aswin.pdf – full multi-page report  
+- Consumer_Profit_Dashboard_v6_Aswin.pdf – full multi-page report  
 - Power BI .pbix source file – available on request  
 
 ---
 
 ## Business Value  
 
-This dashboard enables business stakeholders to quickly see where profit comes from, why it dropped in February, and which levers to pull next.
+This dashboard helps leadership understand where profit originates, why it dropped in February, and which levers — pricing, discounts, regional prioritization, or product mix — will yield the fastest improvement.
