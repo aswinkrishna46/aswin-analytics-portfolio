@@ -27,23 +27,41 @@ Deliver dashboards that reveal where profit comes from and how to grow it, with 
 ---
 
 ## Project 01 — Retail Profitability Optimization  
-Analysis using SQL + Power BI
+Power BI — Consumer Profit Strategy Dashboard
+
+Dataset: Superstore
+Tools: Power BI Desktop 
 
 Goal  
 Identify where the business is winning, where margins drop, and what actions will improve profitability.
 
+What I built  
+A 6-page Power BI report that covers:
+1. Segment / Category / Region Overview (executive KPI summary).  
+2. Profit by Segment and Category (matrix-style analysis with Avg Profit per Order).  
+3. Monthly Performance & Trends (month-over-month profit and order trends).  
+4. Regional Profit Heatmap & Strategy (region × category × segment view).  
+5. EU West Deep Dive (region deep-dive and profit-share analysis).  
+6. Discount Impact & Summary (discount band analysis and profit impact).
+
 Key Findings  
-- Consumer segment drives the majority of profit  
-- Technology & Furniture deliver strong margins; Office Supplies underperforms  
-- February profit dropped sharply despite similar order volume  
-- Decline driven by margin erosion in Technology category  
-- Corporate segment remains stable but low-growth  
+- Consumer segment delivers the highest total profit — primary growth opportunity.  
+- Technology is the top category by profit ($531) and should be prioritized for promotions & availability.  
+- EU West is the highest-profit region ($616) — focus premium pricing and stock readiness there.  
+- Discount strategy: majority of profit comes from no/low-discount sales — review discount policies to protect margin.  
+- February shows a drop in Technology profit driven by weaker Consumer engagement — targeted recovery promotions recommended.
 
 📄 Full report:  
-01_Consumer_Profit_Dashboard/Consumer_Profit_Dashboard_v5_EUDeepDive_Aswin.pdf
+PowerBI-Consumer-Profit-Dashboard/Consumer_Profit_Dashboard_v6_Aswin.pdf
 
 📸 Dashboard previews:  
-See images inside project folder → 01_Consumer_Profit_Dashboard/images/
+(Place images in the same folder, optional for GitHub)  
+01_Segment_Category_Region_Overview.png  
+02_Profit_By_Segment_and_Category.png  
+03_Monthly_Performance_and_Trends.png  
+04_Regional_Heatmap_and_Insights.png  
+05_EU_West_Deep_Dive.png  
+06_Discount_Impact_and_Summary.png  
 
 ---
 
@@ -53,7 +71,7 @@ This dashboard enables leadership to:
 
 - Understand where profit originates  
 - Detect and explain margin drops early  
-- Prioritize high-ROI product-segment combinations  
+- Prioritize high-ROI product–segment combinations  
 - Focus improvement efforts where value is lost  
 
 Delivered visibility into a 37% regional performance gap across EU markets.
