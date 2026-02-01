@@ -1,102 +1,101 @@
-# SAP Analytics Cloud — Superstore Sales & Profit Analytics Dashboard
+# SAP Analytics Cloud — Superstore Sales & Profit Analytics (Insights)
+> Project 02 — Retail Profitability Analysis in SAP Analytics Cloud  
+> Enterprise BI storytelling using SAP Analytics Cloud (SAC)
 
-This project showcases a 4-page interactive analytics story built in SAP Analytics Cloud (SAC) using the Superstore dataset.  
-It demonstrates SAC story design, KPI modeling, user interactions, formatting, and structured business storytelling aligned with IBPS principles.
+## Business Objective  
+Analyze sales, profit, and margin performance across categories, regions, and customers using SAP Analytics Cloud, and demonstrate how the same business problem can be delivered using an enterprise SAP analytics platform.
+
+This project mirrors a traditional profitability analysis use case, but focuses on SAC story design, interaction modeling, and executive-style narrative flow.
 
 ---
 
-## Project Overview
+## Key Findings  
 
-Pages included in this SAC Story:
+- Sales and profit performance vary significantly by region and category, indicating uneven margin contribution.
+- Technology and Furniture categories contribute disproportionately higher profit compared to Office Supplies.
+- Certain regions show strong sales volume but weaker margins, highlighting pricing or cost challenges.
+- A small subset of customers drives a large share of total profit, reinforcing the importance of customer-level analysis.
+- Profit margin differences across segments suggest opportunities for targeted pricing and portfolio optimization.
+
+---
+
+## Analytical Narrative (SAC Story Flow)
+
+The SAC story is structured as a guided 4-step business narrative:
 
 1. Executive Overview  
-   - KPIs for Sales, Profit, Profit Margin  
-   - Regional filter  
-   - Sales trend (Jan–Feb)  
-   - Summary performance view
+   - High-level KPIs for Sales, Profit, and Profit Margin  
+   - Regional filtering for management-level performance review  
+   - Time-based trend view to establish context
 
 2. Category Performance  
-   - Category → Sub-Category breakdown  
-   - Product-level deep dive  
-   - Region filter interaction  
-   - Ranked product profitability view
+   - Category → Sub-category drill-down  
+   - Identification of high- and low-margin product areas  
+   - Product-level profitability ranking
 
 3. Regional Performance  
-   - Sales & profit by region  
-   - Profit margin comparison  
-   - Category performance by region  
-   - Interactive selection to filter all visuals
+   - Comparative analysis of regions  
+   - Profit margin differences across geographies  
+   - Category performance within each region
 
 4. Customer Performance  
-   - Customer Count, Sales, Profit KPIs  
-   - Top 10 customers by profit  
-   - Segment-wise performance  
-   - Customer-level insights with narrative commentary
+   - Customer count, sales, and profit KPIs  
+   - Top 10 customers by profit contribution  
+   - Segment-wise customer profitability insights
+
+This structure aligns with how SAC stories are used in enterprise reporting and management reviews.
 
 ---
 
-## Key Features Demonstrated
-
-- SAC Story Design (Canvas Mode)  
-- KPI tiles, charts, and layout organization  
-- Dimension & measure formatting  
-- Interactive filtering (Region, Category)  
-- Linked analysis across multiple pages  
-- Profit margin calculation inside SAC model  
-- Business narrative added using SAC text widgets  
-- Clean, IBPS-aligned design choices
+## Dataset  
+- Source: Superstore dataset  
+- Type: Retail sales and profit data  
+- Scope: Orders, customers, products, regions  
+- Note: Focus is on SAC modeling and storytelling, not data engineering
 
 ---
 
-## Dashboard Previews
+## Skills Demonstrated  
 
-### Page 1 — Executive Overview  
+- SAP Analytics Cloud (SAC) Story Design  
+- KPI modeling and formatting  
+- Interactive filtering and linked analysis  
+- Profit margin calculation inside SAC  
+- Executive-style dashboard storytelling  
+- Enterprise BI design principles (IBPS-aligned)
+
+---
+
+## Dashboard Screenshots  
+
+### Executive Overview  
 ![Executive Overview](./images/01_Executive_Overview_SAC_Dashboard.png)
 
-### Page 2 — Category Performance  
+### Category Performance  
 ![Category Performance](./images/02_Category_Performance_SAC_Dashboard.png)
 
-### Page 3 — Regional Performance  
+### Regional Performance  
 ![Regional Performance](./images/03_Regional_Performance_SAC_Dashboard.png)
 
-### Page 4 — Customer Performance  
+### Customer Performance  
 ![Customer Performance](./images/04_Customer_Performance_SAC_Dashboard.png)
 
 ---
 
-## Files in This Project
+## Files in This Project  
 
-- SAC_Superstore_Sales_and_Profit_Analytics_Dashboard.pdf — full exported SAC dashboard  
+- SAC_Superstore_Sales_and_Profit_Analytics_Dashboard.pdf — full exported SAC story  
 - PNG screenshots — page-level previews  
-- Model-level calculations created directly inside SAC Story Builder  
+- All calculations created directly inside SAP Analytics Cloud
 
 ---
 
-## Business Value
+## Business Value  
 
-This dashboard helps decision makers:
+This dashboard enables stakeholders to:
+- Quickly assess overall sales and profit health  
+- Identify priority regions, categories, and customers  
+- Understand margin variation drivers  
+- Navigate a structured, executive-ready analytical narrative  
 
-- Understand top-line performance across categories, regions, and customers  
-- Identify high-profit customers and priority product categories  
-- Spot margin variations by region and segment  
-- Navigate a clean, guided 4-step analytical narrative  
-
-It demonstrates the ability to build structured, interactive BI dashboards using enterprise-grade SAP tools.
-
----
-
-## Skills Demonstrated
-
-- SAP Analytics Cloud Story Design  
-- KPI creation & formatting  
-- Interactive filtering & linked analysis  
-- User-oriented dashboard storytelling  
-- Business-aware visual design principles  
-- Measure calculation (Profit Margin)  
-
----
-
-## Author
-
-Aswin Krishna  
-Aspiring Analytics Consultant — Power BI | SQL | SAP Analytics Cloud
+It demonstrates the ability to deliver business-focused analytics using SAP’s enterprise BI platform.
