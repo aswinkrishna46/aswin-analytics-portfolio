@@ -100,6 +100,36 @@ These dashboards enable leadership to:
 - Make decisions backed by visual, interactive, and narrative-driven analytics
 
 ---
+---
+
+## Project 03 — Manufacturing FP&A Performance Analysis  
+Power BI — Financial Planning & Analysis (Actual vs Budget)
+
+Dataset: Synthetic Manufacturing FP&A Data  
+Tools: Power BI Desktop  
+
+Goal  
+Demonstrate FP&A-style financial performance analysis by comparing Actual vs Budget results, explaining operating profit variance, and presenting executive-ready management views.
+
+What I built  
+A multi-page Power BI report designed around FP&A best practices:  
+1. Operating Performance Overview — YTD KPIs (Revenue, Operating Profit, Margin) with monthly Actual vs Budget trends.  
+2. Operating Profit Variance Bridge — structured variance explanation using Revenue, COGS, and Opex impacts.  
+3. Interactive Tooltips — month-level context without cluttering executive views.
+
+Key Insights  
+- High-level revenue performance can mask underlying margin pressure, which becomes visible only through profit variance analysis.  
+- Monthly volatility highlights the importance of separating topline performance from cost behavior.  
+- Variance bridge clearly shows how multiple drivers combine to impact Operating Profit — mirroring real FP&A review discussions.  
+- Executive KPIs enable fast performance assessment, while deeper visuals support follow-up analysis.
+
+📄 Full dashboard (PDF):  
+03_Manufacturing_FPNA_Performance_Dashboard/Manufacturing_FP&A_Performance_Analysis.pdf
+
+📸 Dashboard previews:  
+Available inside the images folder of this project.
+
+---
 
 ## In Progress (Next)
 
