@@ -100,7 +100,6 @@ These dashboards enable leadership to:
 - Make decisions backed by visual, interactive, and narrative-driven analytics
 
 ---
----
 
 ## Project 03 — Manufacturing FP&A Performance Analysis  
 Power BI — Financial Planning & Analysis (Actual vs Budget)
