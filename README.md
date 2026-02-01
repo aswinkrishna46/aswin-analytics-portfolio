@@ -27,62 +27,92 @@ Deliver dashboards that reveal where profit comes from and how to grow it, with 
 ---
 
 ## Project 01 — Retail Profitability Optimization  
-Power BI — Consumer Profit Strategy Dashboard
+Power BI — Consumer Profit Strategy Dashboard  
 
 Dataset: Superstore  
 Tools: Power BI Desktop  
 
-Goal  
+### Goal  
 Identify where the business is winning, where margins drop, and what actions will improve profitability.
 
-What I built  
+### What I Built  
 A 6-page Power BI report that covers:  
-1. Segment / Category / Region Overview (executive KPI summary).  
-2. Profit by Segment and Category (Avg Profit per Order, margin patterns).  
-3. Monthly Performance & Trends (month-over-month profit and order shifts).  
-4. Regional Profit Heatmap & Strategy (region × category × segment view).  
-5. EU West Deep Dive (region deep-dive and profit-share analysis).  
-6. Discount Impact & Summary (discount band analysis and profit leakage).
+1. Segment / Category / Region Overview — executive KPI summary  
+2. Profit by Segment and Category — average profit per order and margin patterns  
+3. Monthly Performance & Trends — month-over-month profit and order shifts  
+4. Regional Profit Heatmap & Strategy — region × category × segment analysis  
+5. EU West Deep Dive — regional deep-dive and profit-share analysis  
+6. Discount Impact & Summary — discount band analysis and profit leakage  
 
-Key Findings  
+### Key Findings  
 - Consumer segment delivers the highest total profit — primary growth opportunity.  
-- Technology is the top category by profit ($531) and should be prioritized for promotions & availability.  
+- Technology is the top category by profit ($531) and should be prioritized for promotions and availability.  
 - EU West is the highest-profit region ($616) — focus premium pricing and stock readiness there.  
-- Discount strategy: majority of profit comes from no/low-discount sales — review discount policies to protect margin.  
+- Discount strategy insight: majority of profit comes from no/low-discount sales — review discount policies to protect margin.  
 - February shows a drop in Technology profit driven by weaker Consumer engagement — targeted recovery promotions recommended.
 
 📄 Full report:  
-PowerBI-Consumer-Profit-Dashboard/Consumer_Profit_Dashboard_v6_Aswin.pdf
+PowerBI-Consumer-Profit-Dashboard/Consumer_Profit_Dashboard_v6_Aswin.pdf  
 
 📸 Dashboard previews:  
-(Images available inside project folder)  
+Images available inside the project folder.
 
 ---
 
 ## Project 02 — SAC Superstore Sales & Profit Analytics  
-SAP Analytics Cloud — 4-Page Interactive Story
+SAP Analytics Cloud — Retail Profitability Analysis  
 
 Dataset: Superstore  
-Tools: SAP Analytics Cloud (Story Builder)
+Tools: SAP Analytics Cloud (Story Builder)  
 
-Goal  
-Build a clean, multi-page analytics story to highlight sales, profit, segment, regional, and customer performance using SAC’s story design capabilities.
+### Goal  
+Analyze sales, profit, and margin performance across categories, regions, and customers using SAP Analytics Cloud, and demonstrate enterprise-style BI storytelling.
 
-What I built  
-A 4-page SAC story with:  
-1. Executive Overview — KPIs, profit margin, regional filter, sales trend.  
-2. Category Performance — category → sub-category breakdown, top products, region-based filtering.  
-3. Regional Performance — sales/profit by region, margin comparison, category mix by region.  
-4. Customer Performance — customer KPIs, Top 10 customers by profit, segment-level analysis, narrative insights.
+### What I Built  
+A 4-page SAC analytics story structured as a guided business narrative:  
+1. Executive Overview — KPIs, profit margin, regional filter, sales trend  
+2. Category Performance — category to sub-category breakdown, top products, region-based filtering  
+3. Regional Performance — sales and profit by region, margin comparison, category mix  
+4. Customer Performance — customer KPIs, Top 10 customers by profit, segment-level insights with narrative commentary  
 
-Key Findings  
-- EU West leads in sales and profit performance.  
+### Key Findings  
+- EU West leads in both sales and profit performance.  
 - Technology and Furniture categories contribute strongly across regions.  
-- Customer profitability is concentrated — top customers drive a large share of profit.  
-- Customer segment differences reveal where targeted marketing can improve returns.
+- Customer profitability is concentrated — a small group of customers drives a large share of profit.  
+- Segment-level differences indicate where targeted marketing can improve returns.
 
 📄 Full dashboard (PDF):  
-02_SAC_Superstore_Analytics_Dashboard/SAC_Superstore_Sales_and_Profit_Analytics_Dashboard.pdf
+02_SAC_Superstore_Analytics_Dashboard/SAC_Superstore_Sales_and_Profit_Analytics_Dashboard.pdf  
+
+📸 Dashboard previews:  
+Available inside the images folder of this project.
+
+---
+
+## Project 03 — Manufacturing FP&A Performance Analysis  
+Power BI — Financial Planning & Analysis (Actual vs Budget)  
+
+Focus: Management reporting, variance analysis, and executive decision support
+Dataset: Synthetic Manufacturing FP&A data modeled to reflect real-world FP&A structures  
+Tools: Power BI Desktop  
+
+### Goal  
+Demonstrate FP&A-style financial performance analysis by comparing Actual vs Budget results, explaining operating profit variance, and presenting executive-ready management views.
+
+### What I Built  
+A multi-page Power BI report designed around FP&A best practices:  
+1. Operating Performance Overview — YTD KPIs (Revenue, Operating Profit, Margin) with monthly Actual vs Budget trends  
+2. Operating Profit Variance Bridge — structured variance explanation using Revenue, COGS, and Opex impacts  
+3. Interactive Tooltips — month-level context delivered without cluttering executive-level views  
+
+### Key Insights  
+- High-level revenue performance can mask underlying margin pressure, which becomes visible only through profit variance analysis.  
+- Monthly volatility highlights the importance of separating topline performance from cost behavior.  
+- Variance bridge clearly shows how revenue, COGS, and Opex drivers combine to impact Operating Profit — mirroring real FP&A review discussions.  
+- Executive KPIs enable fast performance assessment, while deeper visuals support follow-up analysis.
+
+📄 Full dashboard (PDF):  
+03_Manufacturing_FPNA_Performance_Dashboard/Manufacturing_FP&A_Performance_Analysis.pdf  
 
 📸 Dashboard previews:  
 Available inside the images folder of this project.
@@ -97,40 +127,13 @@ These dashboards enable leadership to:
 - Detect early signs of margin erosion  
 - See how regions, categories, and customers contribute differently  
 - Prioritize high-ROI segments and products  
-- Make decisions backed by visual, interactive, and narrative-driven analytics
-
----
-
-## Project 03 — Manufacturing FP&A Performance Analysis  
-Power BI — Financial Planning & Analysis (Actual vs Budget)
-
-Dataset: Synthetic Manufacturing FP&A Data  
-Tools: Power BI Desktop  
-
-Goal  
-Demonstrate FP&A-style financial performance analysis by comparing Actual vs Budget results, explaining operating profit variance, and presenting executive-ready management views.
-
-What I built  
-A multi-page Power BI report designed around FP&A best practices:  
-1. Operating Performance Overview — YTD KPIs (Revenue, Operating Profit, Margin) with monthly Actual vs Budget trends.  
-2. Operating Profit Variance Bridge — structured variance explanation using Revenue, COGS, and Opex impacts.  
-3. Interactive Tooltips — month-level context without cluttering executive views.
-
-Key Insights  
-- High-level revenue performance can mask underlying margin pressure, which becomes visible only through profit variance analysis.  
-- Monthly volatility highlights the importance of separating topline performance from cost behavior.  
-- Variance bridge clearly shows how multiple drivers combine to impact Operating Profit — mirroring real FP&A review discussions.  
-- Executive KPIs enable fast performance assessment, while deeper visuals support follow-up analysis.
-
-📄 Full dashboard (PDF):  
-03_Manufacturing_FPNA_Performance_Dashboard/Manufacturing_FP&A_Performance_Analysis.pdf
-
-📸 Dashboard previews:  
-Available inside the images folder of this project.
+- Make decisions backed by visual, interactive, and narrative-driven analytics  
 
 ---
 
 ## In Progress (Next)
+
+The following projects are planned to deepen forecasting, predictive analytics, and operational performance analysis capabilities:
 
 - Sales Forecasting (SQL + Python + SAC Predictive)  
 - Returns & Delivery Efficiency Dashboard (Power BI)  
@@ -142,4 +145,3 @@ Available inside the images folder of this project.
 
 - Email: aswinkrishna46@gmail.com  
 - Location: India — Open to opportunities in Netherlands & EU
----
